@@ -1,2 +1,2 @@
 # kneedle-java
-Java implementation of the Kneedle algorithm
+Java implementation of the [Kneedle](https://github.com/kneedetection/kneedle) algorithm
